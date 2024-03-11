@@ -1,6 +1,6 @@
 # Mario_RL
 
-My implementation of a Reinforcemet learning model trained on the [gym-super-mario-bros] (https://pypi.org/project/gym-super-mario-bros/), an OpenAI Gym environment for Super Mario Bros. & Super Mario Bros. 2 (Lost Levels) on The Nintendo Entertainment System (NES) using the nes-py emulator. 
+My implementation of a Reinforcemet learning model trained on the [gym-super-mario-bros](https://pypi.org/project/gym-super-mario-bros/), an OpenAI Gym environment for Super Mario Bros. & Super Mario Bros. 2 (Lost Levels) on The Nintendo Entertainment System (NES) using the nes-py emulator. 
 
 I used a Proximal Policy Optimization (PPO) from stable-baseline-3 with a CnnPolicy 
 
